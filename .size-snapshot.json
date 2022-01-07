@@ -1,22 +1,22 @@
 {
   "dist/react-input-mask.js": {
-    "bundled": 79669,
-    "minified": 26008,
-    "gzipped": 8342
+    "bundled": 74041,
+    "minified": 24040,
+    "gzipped": 8067
   },
   "lib/react-input-mask.development.js": {
-    "bundled": 30278,
-    "minified": 12895,
-    "gzipped": 4267
+    "bundled": 30415,
+    "minified": 13078,
+    "gzipped": 4303
   },
   "dist/react-input-mask.min.js": {
-    "bundled": 44160,
-    "minified": 15279,
-    "gzipped": 5298
+    "bundled": 31689,
+    "minified": 11073,
+    "gzipped": 3951
   },
   "lib/react-input-mask.production.min.js": {
-    "bundled": 28947,
-    "minified": 11818,
-    "gzipped": 3931
+    "bundled": 29084,
+    "minified": 12001,
+    "gzipped": 3972
   }
 }
